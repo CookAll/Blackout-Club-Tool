@@ -7,3 +7,12 @@ C:\Users\Allan Cook\Documents\GitHub\BlackoutrugbyClubTool\BlackoutrugbyClubTool
 C:\Users\Allan Cook\Documents\GitHub\BlackoutrugbyClubTool\BlackoutrugbyClubTool\obj\Debug\BlackoutrugbyClubTool.csproj.GenerateResource.Cache
 C:\Users\Allan Cook\Documents\GitHub\BlackoutrugbyClubTool\BlackoutrugbyClubTool\obj\Debug\BlackoutrugbyClubTool.exe
 C:\Users\Allan Cook\Documents\GitHub\BlackoutrugbyClubTool\BlackoutrugbyClubTool\obj\Debug\BlackoutrugbyClubTool.pdb
+C:\Users\Allan Cook\Documents\GitHub\Blackout-Club-Tool\BlackoutrugbyClubTool\bin\Debug\BlackoutrugbyClubTool.exe.config
+C:\Users\Allan Cook\Documents\GitHub\Blackout-Club-Tool\BlackoutrugbyClubTool\obj\Debug\BlackoutrugbyClubTool.exe
+C:\Users\Allan Cook\Documents\GitHub\Blackout-Club-Tool\BlackoutrugbyClubTool\obj\Debug\BlackoutrugbyClubTool.pdb
+C:\Users\Allan Cook\Documents\GitHub\Blackout-Club-Tool\BlackoutrugbyClubTool\bin\Debug\BlackoutrugbyClubTool.exe
+C:\Users\Allan Cook\Documents\GitHub\Blackout-Club-Tool\BlackoutrugbyClubTool\bin\Debug\BlackoutrugbyClubTool.pdb
+C:\Users\Allan Cook\Documents\GitHub\Blackout-Club-Tool\BlackoutrugbyClubTool\obj\Debug\BlackoutrugbyClubTool.csprojResolveAssemblyReference.cache
+C:\Users\Allan Cook\Documents\GitHub\Blackout-Club-Tool\BlackoutrugbyClubTool\obj\Debug\BlackoutrugbyClubTool.Form1.resources
+C:\Users\Allan Cook\Documents\GitHub\Blackout-Club-Tool\BlackoutrugbyClubTool\obj\Debug\BlackoutrugbyClubTool.Properties.Resources.resources
+C:\Users\Allan Cook\Documents\GitHub\Blackout-Club-Tool\BlackoutrugbyClubTool\obj\Debug\BlackoutrugbyClubTool.csproj.GenerateResource.Cache
