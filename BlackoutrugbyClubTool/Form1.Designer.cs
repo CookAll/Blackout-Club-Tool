@@ -354,6 +354,7 @@
             this.tabControl1.SelectedIndex = 0;
             this.tabControl1.Size = new System.Drawing.Size(1220, 613);
             this.tabControl1.TabIndex = 11;
+            this.tabControl1.Tag = "";
             // 
             // tabPage1
             // 
@@ -363,7 +364,7 @@
             this.tabPage1.Padding = new System.Windows.Forms.Padding(3);
             this.tabPage1.Size = new System.Drawing.Size(1212, 587);
             this.tabPage1.TabIndex = 0;
-            this.tabPage1.Text = "tabPage1";
+            this.tabPage1.Text = "Squad Stats";
             this.tabPage1.UseVisualStyleBackColor = true;
             // 
             // tabPage2
@@ -378,7 +379,7 @@
             this.tabPage2.Padding = new System.Windows.Forms.Padding(3);
             this.tabPage2.Size = new System.Drawing.Size(1212, 587);
             this.tabPage2.TabIndex = 1;
-            this.tabPage2.Text = "tabPage2";
+            this.tabPage2.Text = "Squad Info";
             this.tabPage2.UseVisualStyleBackColor = true;
             // 
             // groupBox2
