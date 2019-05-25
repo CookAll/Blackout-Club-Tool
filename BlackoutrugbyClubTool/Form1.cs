@@ -94,7 +94,7 @@ namespace BlackoutrugbyClubTool
             #region WebRequest Code
 
             // Create a request for the URL.  
-            WebRequest webRequest = WebRequest.Create("http://api.blackoutrugby.com/?d=" + requestString);
+            WebRequest webRequest = WebRequest.Create("http://classic-api.blackoutrugby.com/?d=" + requestString);
 
             WebResponse Webresponse = webRequest.GetResponse();
 
