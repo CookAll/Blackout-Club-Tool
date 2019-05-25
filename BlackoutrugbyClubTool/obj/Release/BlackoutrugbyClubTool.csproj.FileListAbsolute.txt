@@ -1,0 +1,10 @@
+D:\Website\Blackout-Club-Tool\BlackoutrugbyClubTool\bin\Release\BlackoutrugbyClubTool.exe.config
+D:\Website\Blackout-Club-Tool\BlackoutrugbyClubTool\bin\Release\BlackoutrugbyClubTool.exe
+D:\Website\Blackout-Club-Tool\BlackoutrugbyClubTool\bin\Release\BlackoutrugbyClubTool.pdb
+D:\Website\Blackout-Club-Tool\BlackoutrugbyClubTool\obj\Release\BlackoutrugbyClubTool.csprojAssemblyReference.cache
+D:\Website\Blackout-Club-Tool\BlackoutrugbyClubTool\obj\Release\BlackoutrugbyClubTool.Form1.resources
+D:\Website\Blackout-Club-Tool\BlackoutrugbyClubTool\obj\Release\BlackoutrugbyClubTool.Properties.Resources.resources
+D:\Website\Blackout-Club-Tool\BlackoutrugbyClubTool\obj\Release\BlackoutrugbyClubTool.csproj.GenerateResource.cache
+D:\Website\Blackout-Club-Tool\BlackoutrugbyClubTool\obj\Release\BlackoutrugbyClubTool.csproj.CoreCompileInputs.cache
+D:\Website\Blackout-Club-Tool\BlackoutrugbyClubTool\obj\Release\BlackoutrugbyClubTool.exe
+D:\Website\Blackout-Club-Tool\BlackoutrugbyClubTool\obj\Release\BlackoutrugbyClubTool.pdb
