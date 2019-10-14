@@ -11,7 +11,6 @@ D:\Website\Blackout-Club-Tool\BlackoutrugbyClubTool\obj\Release\BlackoutrugbyClu
 C:\Users\allan\OneDrive\Documents\GitHub\Blackout-Club-Tool\BlackoutrugbyClubTool\bin\Release\BlackoutrugbyClubTool.exe.config
 C:\Users\allan\OneDrive\Documents\GitHub\Blackout-Club-Tool\BlackoutrugbyClubTool\bin\Release\BlackoutrugbyClubTool.exe
 C:\Users\allan\OneDrive\Documents\GitHub\Blackout-Club-Tool\BlackoutrugbyClubTool\bin\Release\BlackoutrugbyClubTool.pdb
-C:\Users\allan\OneDrive\Documents\GitHub\Blackout-Club-Tool\BlackoutrugbyClubTool\obj\Release\BlackoutrugbyClubTool.csprojAssemblyReference.cache
 C:\Users\allan\OneDrive\Documents\GitHub\Blackout-Club-Tool\BlackoutrugbyClubTool\obj\Release\BlackoutrugbyClubTool.Form1.resources
 C:\Users\allan\OneDrive\Documents\GitHub\Blackout-Club-Tool\BlackoutrugbyClubTool\obj\Release\BlackoutrugbyClubTool.Properties.Resources.resources
 C:\Users\allan\OneDrive\Documents\GitHub\Blackout-Club-Tool\BlackoutrugbyClubTool\obj\Release\BlackoutrugbyClubTool.csproj.GenerateResource.cache

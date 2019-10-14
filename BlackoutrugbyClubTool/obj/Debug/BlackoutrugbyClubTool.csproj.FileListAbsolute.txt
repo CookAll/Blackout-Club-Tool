@@ -26,3 +26,11 @@ D:\Website\Blackout-Club-Tool\BlackoutrugbyClubTool\obj\Debug\BlackoutrugbyClubT
 D:\Website\Blackout-Club-Tool\BlackoutrugbyClubTool\obj\Debug\BlackoutrugbyClubTool.csproj.CoreCompileInputs.cache
 D:\Website\Blackout-Club-Tool\BlackoutrugbyClubTool\obj\Debug\BlackoutrugbyClubTool.exe
 D:\Website\Blackout-Club-Tool\BlackoutrugbyClubTool\obj\Debug\BlackoutrugbyClubTool.pdb
+C:\Users\allan\OneDrive\Documents\GitHub\Blackout-Club-Tool\BlackoutrugbyClubTool\bin\Debug\BlackoutrugbyClubTool.exe.config
+C:\Users\allan\OneDrive\Documents\GitHub\Blackout-Club-Tool\BlackoutrugbyClubTool\bin\Debug\BlackoutrugbyClubTool.exe
+C:\Users\allan\OneDrive\Documents\GitHub\Blackout-Club-Tool\BlackoutrugbyClubTool\bin\Debug\BlackoutrugbyClubTool.pdb
+C:\Users\allan\OneDrive\Documents\GitHub\Blackout-Club-Tool\BlackoutrugbyClubTool\obj\Debug\BlackoutrugbyClubTool.Form1.resources
+C:\Users\allan\OneDrive\Documents\GitHub\Blackout-Club-Tool\BlackoutrugbyClubTool\obj\Debug\BlackoutrugbyClubTool.Properties.Resources.resources
+C:\Users\allan\OneDrive\Documents\GitHub\Blackout-Club-Tool\BlackoutrugbyClubTool\obj\Debug\BlackoutrugbyClubTool.csproj.GenerateResource.cache
+C:\Users\allan\OneDrive\Documents\GitHub\Blackout-Club-Tool\BlackoutrugbyClubTool\obj\Debug\BlackoutrugbyClubTool.exe
+C:\Users\allan\OneDrive\Documents\GitHub\Blackout-Club-Tool\BlackoutrugbyClubTool\obj\Debug\BlackoutrugbyClubTool.pdb
