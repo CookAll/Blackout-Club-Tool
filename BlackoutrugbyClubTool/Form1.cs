@@ -43,9 +43,9 @@ namespace BlackoutrugbyClubTool
         {
 
             // Assign the developer details to variables got from the UI textboxes
-            string devID = "1038";
-            string devKey = "2yysSrd2fZxuOu5y";
-            string devIV = "sUMf1bNSzcaitday";
+            string devID = "your devID";
+            string devKey = "your devKey";
+            string devIV = "your devIV";
             
 
             #region CODE FROM BR Documentation - http://www.blackoutrugby.com/game/help.documentation.php#category=35
@@ -263,7 +263,7 @@ namespace BlackoutrugbyClubTool
                 player.Energy += (int)el.Element("energy");
 
                 count++;
-                richTextBox1.AppendText(count.ToString() + "\r");
+                
 
             }
 
